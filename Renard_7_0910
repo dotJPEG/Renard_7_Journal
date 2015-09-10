@@ -1,0 +1,15 @@
+Journal 09-10-15
+
+Explain what we did yesterday (with github) and why.
+More specifically -
+Describe the git steps you will do everytime.
+
+Yesterday we were taught how to create text documents in our git repositories, and how to upload them to git. 
+Everytime we want to make a new entre we will need to do the command "pico Renard_7_<date>". When we are done with the journal we type "git push". This will keep the repository up to date.
+
+
+Command list:
+git add myfilename
+git commit -m "message"
+git push -u origin master
+
