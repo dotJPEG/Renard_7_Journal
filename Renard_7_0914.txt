@@ -1,0 +1,11 @@
+Explain:
+Some students may indicate " just give me teh codez [sic], I don't want to practice organizing my thoughts. "
+How would you explain the importance of organizing one's thoughts and not proceeding in a haphazard manner?
+
+Today you will finish creating an image of your Processing art overlaid with code.
+
+Why?
+
+In the case of coding, organzizing your work can help with troubleshooting in the case that it doesnt work. If yuo run across an error ad your code is massive, you ould have to surf through everything you had written just to find the one error, but it its organized neatly it will be easy to find and errors.
+
+The reason we will finish creating an image or our processing art overlaid with code is so we can get a grade.
