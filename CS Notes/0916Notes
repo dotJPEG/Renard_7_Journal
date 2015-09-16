@@ -1,0 +1,38 @@
+Notes for data types.
+
+                     package helloworld:
+^^over arching title to connect files from the same program^^
+
+public class HelloWorld {
+#public-acces and shared with everyone. anyone can see it.
+#class-an orginizational unit; recipe/template with code instructions
+#HelloWorld-the file must have this name
+
+
+0
+
+	public static void main(string[]args) {
+#this is in every java program. without a main class a java program wont run
+this is important because this is where the execution of every java program begins.
+
+	[you will have to memorize this line]
+
+	Systerm.out.println("helloworld");
+#this is the one command we run in our program
+
+}
+
+}
+#notice the curly braces, for every curly brace that starts, there must be one that ends.
+
+DATA TYPES: (These are some of the [rimitive DATA Types)
+[name, description, examples]
+int- (ineger, a whole number, no decimal) eg. 243, -2345
+float-32
+short, long, double- 16,32,64-these are for decimal numbers
+Char-character "a" "1" ";"
+stiring-a bunch of symblos(a collection of chars) "sdf"
+boolean-is true or false. on and off.
+#DATA Types are important for computer science because they help you orginize your programs
+#These are the data types built into the java api. These are the most simple of all data types.
+
