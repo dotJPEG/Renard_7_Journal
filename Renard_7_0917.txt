@@ -1,0 +1,11 @@
+What are the five different Java data types? What are they good for?
+1.int- and integer, such as a whole number. i.e. 1,2,3,4,55655
+
+2.float-32 bit
+
+3.short,long,double- 16,32,64 bit respectivly.  these are for decimal numbers
+
+4.Char- a character such as 1,a,@,;
+
+5.Boolean- is true or dalse, on or off.
+
