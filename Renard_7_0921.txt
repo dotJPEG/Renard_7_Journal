@@ -1,0 +1,8 @@
+Have you recived credit for all journals?
+yes
+
+Why is it important using the naming convention specified when naming files?
+Keeping similar names will allow for conviniant sorting of your files, like the convention used here, which sorts by date.
+
+What is the command to copy in linux? to copy all of a directory to the current directory?
+cp, cp SOURCE DIRECTORY
