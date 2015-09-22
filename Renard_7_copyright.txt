@@ -1,0 +1,21 @@
+Discuss with a partner and come up with a definition and example for each
+of the terms below(and write them down)
+
+copyright-copyright is the laws set in place to protect the creations that one has made from being stolen and taken credit for by those who did not make them.
+copyleft-copyleft is a play on words for the word copyright, copyleft means that the creator of the work allows the work to be distributed and modified by anyone who wants to, and any modified r distributed copies be under the same rule set.
+fair use-fair use is anything that doesnt have any copyright laws that prohibit someone from using it.
+free speech-free speech is americas, and some other countries, ways of allowing their citizens the ability to freely speak about what they want to both on and off the internet. Free speech protects you from being discriminated against for your opinions.
+free software- free software is software that you can download without having to pay for, such as internet clients. It IS NOT freeware, it is still protected by copyright laws.
+freeware-is free to download, but may be siomething to promote sales for a full version, like the version of winrar that you will never upgrade from. altlthough the software is free for distribution, it is not open source.
+public domain-public domain is any work that has been in use for long enough that anyone can use it withought having to reguard the copyright laws. i.e. music form the classical era.
+file-sharing-distributing a file through the use of the internet, legal in most cases but have caution when using.
+piracy-piracy is file sharing, but with files that were not intended to be freely distributed, like downloading a copy of windows off of bit torrent.
+plagerism-Plagerism is when you take someone else's work and claim it to be your own, or when you do not properly site that persons work.
+infringment-infringment is when you break the laws of plagerism and steal someone else's work and claim it to be your own.
+propietary-proprietary means that the tool or information belongs strickly to its owner and is not to be used, and in  some cases seen, by anyone else.
+open source-open source means that the soarce code of the file is open for modification by the public, like Valve's source enginge, or Mojang's Minecraft.
+GNU GPL license-this is a free copyleft license that can be easily used, but is not allowed to be modified.
+apache license-a license for a free server based software. Apache just makes its easy to host a local host web page, the license is for freely distributed software
+EULA-an agreement between the licensor and the purchaser which allows the use of the product by the person who purchased it.
+creative commons-creative commons is a non-profit orginization that allows one to easily share their works and be protected by the laws of copyright.
+
