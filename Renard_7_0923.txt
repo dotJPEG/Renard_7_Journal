@@ -1,0 +1,18 @@
+The GNU - General Public License
+
+(Where) have you seen this license before? 
+I have seen this license when using free software that is open soarce.
+
+What is it saying? 
+It is saying that the end user of the software is allowed to use, modify, and share in any way they wish.
+
+What implications does this license have for the 
+author? For the user?
+This means that the author is okay with their software being shared and modified, one example of this is Mojan, and their game Minecraft.
+For the user, this means they can do what they want with the software, they are protected by law to use, share, and modify the product in any way that the company marks deemable.
+
+When would you use this license?
+If I were to download an open soarce software program with the intention of modding it in some way, than i would use the General Public License thet the company has instated for their software.
+
+When would you not use this license?
+I would not use this license if the company who released the software did not want the communtiy sharing or modding their software, one example is EA (Evil Arts)
