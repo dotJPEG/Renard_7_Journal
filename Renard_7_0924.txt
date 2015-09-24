@@ -1,0 +1,9 @@
+For the journal today:
+Describe- Why did Steve Ballmer call the GPL a virus?
+Steve works for Microsoft, which produces an OS that in no way supports the distribute/modify portions of the GPL. The GPL goes against the way that windows works.
+
+What is the relationship / difference between open source and proprietary software?
+Open soarce software can be the basis to an entire type of software. Some proprietary software was created through the modification of open soarce software. that being said they are very different. open soarce means anyone can get/use/download it. with proprietary software, in some cases you can still use it but in no way can the average consumer modify or distribute it.
+
+What are the differences between the GPL and the MIT license?
+With GPL there are some very minute restrictions, while with the MIT license, thre are absolutily no limitations to what the user can do with the software.
