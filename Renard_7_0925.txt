@@ -1,0 +1,13 @@
+For the journal today, define the following:
+    Paid licencse-A license that the person who published the software had to pay for, this is something you would have to do if you put software on the internet through the use of a publisher like EA(EvilArts)
+    Shareware-Free software, usually in the form of some sort of demo/advertisment
+    Trialware-Like sharware but your time using the software is set to a limit, you cant use the software for as long as you want.
+    Ad-ware-In most cases adware is a virus that causes ads to be on everything. hover over a link and it pops up an add, click a link an multple pop up adds come ip.
+    Crippleware-Software that you can get but cant use essential features such as saving information or are limited with what you can do with the software compared to someone with the full copy of the software.
+    Freemium-pay to play/win. You get it for free but cant do much without paying. i.e. MOBILE GAMES
+    FreeWare (vs Free-OpenSource)-Free ware is free software that has restrictions such as not being able to look at the code or not being able to distribute it. Open soarce is software that may not be free but once you have uit it is truly yours, do with ti what you please.
+    Richard Stallman-Richard stallman made GNU, or in otherwords many of the essential parts of linux. he had the intention of making an OS but never finished
+    Lawrence Lessig- The man begind the Net Neutrality movement, we both know what that is so im not gonna write the paragraph necissary to explain it.
+    Eben Moglen-Says that "free software is a fundamental requiremnet fir a democratic and free society"
+
+
