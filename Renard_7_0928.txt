@@ -1,0 +1,8 @@
+For the journal today, describe the following:
+How can you count in Java?
+By using a for loop [for(int i = 0; i < 100; i++){
+you also start at 0 when counting
+How can you check to see if a number is divisible?
+by using the modulo command (%)
+How can you track if a number has a divisor? 
+also by using the modulo command, but you have to check for a remainder when checking a feild of numbers [i % o != 0]
