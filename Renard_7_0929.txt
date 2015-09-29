@@ -1,0 +1,5 @@
+    For the journal today, describe the following:
+    What are methods? What are they good for?
+Methods are code snippets that are intended to be repeated over and over again until what they are meant to do is done.
+    How can you use methods to find primes?
+You can create a method that checks if a number (i) is divisible by another number (2,3,5,7)
