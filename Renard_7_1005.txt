@@ -1,0 +1,2 @@
+What is git commit and why do we use it?
+We use git commit to leave a note on what a file is, like on our journals we commit something along the lines of " my journal for x-y-15 "
