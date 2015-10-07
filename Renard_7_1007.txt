@@ -1,0 +1,13 @@
+What is a Java class?
+A Java class is like a normal class, but it's syntax is specific to Java
+
+What might a Java class be for JavaFX?
+public void start(Stage primaryStage) {
+	primaryStage.setTitle("Drawing Operations Test");
+}
+
+What might be a  method for class?
+private void drawShapes(GraphicsContext gc) {
+
+	gc.setFill(Color.GREEN);
+}
