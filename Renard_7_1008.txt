@@ -1,0 +1,14 @@
+What are your tentative thoughts / plans for your art project?
+Im probaly going to make something like a sword in a stone hilt in the ground, like in Ocarina of Time, it will be easy, just a few rectangles, trapeziods, and triangles
+
+What might be methods you will use?
+Each shape that I use will ahve a method for it, and the user input will be to unsheath the sword, which will have its own methods
+
+How might you incorporate a for loop?
+I will have a loop to check for user input
+
+How might you incorporate, if, else if, else?
+an if to check for input, and an else to tell what to do if no input detected
+
+What math might you use? 
+Simple things like for loops to check for user input on a tick-by-tick basis
