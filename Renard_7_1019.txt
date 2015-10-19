@@ -1,0 +1,30 @@
+
+
+You should be almost done with your methods.
+    Are you? Why or why not?
+For the most part yes, it really depends on how much time we have left to do it.
+If we still have quite a bit of time left than i will probaly add a few more
+and touch up a few, otherwise though im done.
+
+    This is a real question -- describe what you did the days we went over art methods. What did you write? type? What were your thoughts?
+On those days i mostly just wrote down what was taught, and inbetween
+talks/during demonstrations of stuff i knew how to do i would tinker with the
+code past that, i cant quite remember.
+
+    Did you notice that art method code was shared in the journals (as proclaimed with very large text)? Why or why not?
+no, i rarely actually read the journals folder at this point, i just remember 
+what is already there and just pico what i need to
+
+    Have you examined the sample code on github? Why or why not?
+Yes, it is generally a good idea to get an idea on what your about to do
+especially if you've never done it before, which i haven't.
+
+    Write a sample method for making a sequence of red squares on the canvas.
+
+for(int i = 0; i < 100; i++)
+drawSquare(gc,i,i,10,10);
+}
+private void drawSquare(GraphicsContext Square, int x, int y, int w, int h) {
+	Square.setFill(Color.RED);
+	Square.fillRect(x,y,w,h);
+}
