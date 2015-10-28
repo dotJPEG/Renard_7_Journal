@@ -1,0 +1,7 @@
+Is your guessing game a game? Why or why not?
+Kind of, it's just guess a number and hope the game doesnt call you trash
+
+What would make it better?
+add something that strays from the simple idea of guessing a random number
+that is somewhere in a range of numbers, maybe aswer a few questions using
+strigs or something like that
