@@ -1,0 +1,12 @@
+What is a method?
+A method is like a miniature class within a class, that you can call upon from the main class to do something
+
+Which methods did you use and how did you use them in your guessing game program?
+i put the entire game into a method because im casual filth as per usual
+
+What is a while loop?
+A while loop is a loop that will repeat until what is in the ()'s is not true
+
+How did you use a while loop, boolean, and counter in your guessing game? 
+counter to give the user a certain amount of tries, while loop to run until you
+suceed or lose, and boolean for whether or not you guessed the number correctly
