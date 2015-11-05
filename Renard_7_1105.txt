@@ -1,0 +1,14 @@
+What are strings?
+Strings are a data type that is consited of a 'string' of characters  
+eg. "asdf1234!@#$"
+
+What are they good for?
+They are good for recording data in a way that humans can read, you cant really
+store a sentance in an integer.
+
+What are some string methods?
+A string method is a method that uses a string or searches a string.
+
+How do we identify string methods? 
+String methods use Strings or search strings to accomplish what they are used
+for using and locating strings.
