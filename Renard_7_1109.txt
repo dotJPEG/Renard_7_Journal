@@ -1,0 +1,15 @@
+Are you ready to begin coding your game?
+For the most part yes
+
+Why or why not?
+Im not quite done with the flowchart, but I don't really need to finish it in 
+all honesty
+
+What will be your biggest challenges?
+
+By far my biggest challenge will be managing all the branching paths and 
+command options
+
+Why?
+Its kind of self explanetory, by the end of the project, it'll probaly look 
+like a jumbled mess
