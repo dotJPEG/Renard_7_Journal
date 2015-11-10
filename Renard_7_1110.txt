@@ -1,0 +1,9 @@
+In your game, how can you track what challenges the player has solved?
+Ill have a list of booleans that represent your progress
+i.e. QUEST1 = true (meaning that you have completed QUEST1
+
+How can you track HP?
+Im not going to have HP, You'll find out why
+
+items? 
+static data values (strings, methods, int, etc.)
