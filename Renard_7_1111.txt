@@ -1,0 +1,12 @@
+In your game, what challenges must your player solve?
+The player must progress through a series of puzzles that require deep though(not really)
+
+How will you specifically track whether they have been solved?
+Im going to have a series of booleans that state whether or not 'X' has been completed
+
+Provide variable names and types. Classes if applicable. 
+Variable;
+Name:QUEST1,FINALBOSS,etc.
+Type:booleans, int, double[]
+
+Classes: Guessing_Game
