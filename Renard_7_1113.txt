@@ -1,0 +1,5 @@
+How will you use while loops in your game? Why?
+For each "room" in my game i use while loops to show that you are still in that room
+
+How will you use methods in your game? Why?
+Each individual room or instance is part of a method, the main only has the intro and commands to run the methods
