@@ -1,0 +1,8 @@
+No, really, How will you use methods in your game? Why?
+I use methods for the areas within my game. If you are in the starting room,
+than you are using the starting room method, if you are in the town, than you
+are using the feild method.
+
+What values will you pass to them.
+booleans to represent the possesion of items, and int's to represent progress
+towards accomplishments
