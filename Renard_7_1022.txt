@@ -1,0 +1,9 @@
+What is the purpose of the code art that you create?
+The purpose of the code art that i created was to visualize the creation of the
+image while also being ableto show the image.
+
+What is the purpose of creating art with code to learn?
+The purpose of creating art with your code is that it allows you to actually
+visualize what you are creating with your lines of code. In other cases, such
+as plain java, you dont really get to see the code in action, just the outputs
+that you instructed it to do such as "system.out.println("blah");
