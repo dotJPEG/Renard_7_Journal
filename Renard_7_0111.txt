@@ -1,0 +1,5 @@
+What slick game will you create?
+I'm making a "Smash brothers clone" of sorts, You run into opponent and they move
+
+What challenges have you faced / are you facing with your slick game?
+Well, seeing as how i havent even started making the game, none.
