@@ -1,0 +1,12 @@
+What slick game did you create?
+It's a simple game of rock paper scissors when it comes down to it. It wasnt hard to make, but on that note
+it wouldnt have been hard to creat a game where you run from one point to another trying not to get hit by bad
+guys which would of most certainly gotten a better grade. I mainly chose to go with the lame game of rock paper scissors
+because no one else was, and on the rubric it said to be unique, so yeah.
+
+What challenges did you solve?
+Well i faced the challenge of time, which i wasnt really able to solve. I tried
+to work on my game at home this weekend, but my dad decided it was a good time
+to upgrade to windows 10 on my pc, so most of my weekend went to fixing it. I 
+was able to do a little bit on monday, but i still have to make the start screen
+and the win/loss screen. 
