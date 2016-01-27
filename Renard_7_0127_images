@@ -1,0 +1,7 @@
+How do you add an image to a slick game?
+grassMap = new TiledMap("res/full.tmx");
+this chooses the file to display as the game map
+
+Where is the image drawn?
+In the main game code where all other objects are drawn. The image is diplayed
+in a box brought up by launching into a state.	
