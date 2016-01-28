@@ -1,0 +1,6 @@
+public void render(GameContainer gc, StateBasedGame sbg, Graphics g)
+throws SlickException { 
+
+Is this a class or a method?
+This is a Method, i know this because it doesnt have the word class anywhere 
+in it
