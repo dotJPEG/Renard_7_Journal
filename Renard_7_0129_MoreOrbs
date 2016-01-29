@@ -1,0 +1,12 @@
+What is a class constructor?
+a class constructor is a chunk or code that accesses a class outside of the class
+i.e. calling upon the "item" class from my main game code
+
+What should be included in a class constructor for orbs? Why?
+the class name, the data you want to use in the class constructer
+i.e. Orb(int x, int y){
+}
+
+What methods should the orb have? why?
+Methods for things like hitboxes and what happens when this object touches 
+this thing
