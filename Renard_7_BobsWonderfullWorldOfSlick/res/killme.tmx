@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="50" height="100" tilewidth="64" tileheight="64" nextobjectid="1">
+ <tileset firstgid="1" name="tile_1" tilewidth="64" tileheight="64" tilecount="16">
+  <image source="tile_1.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="17" name="tile_2" tilewidth="64" tileheight="64" tilecount="16">
+  <image source="tile_2.png" width="256" height="256"/>
+  <tile id="0">
+   <properties>
+    <property name="blocked" value="true"/>
+   </properties>
+  </tile>
+ </tileset>
+ <tileset firstgid="33" name="asdf" tilewidth="64" tileheight="64" tilecount="5">
+  <tile id="0">
+   <image width="64" height="64" source="Tiles/Stones_shaded.png"/>
+  </tile>
+  <tile id="1">
+   <image width="64" height="64" source="Tiles/Stones.png"/>
+  </tile>
+  <tile id="2">
+   <image width="64" height="64" source="Tiles/wall_top1.png"/>
+  </tile>
+  <tile id="3">
+   <image width="64" height="64" source="Tiles/wall1.png"/>
+  </tile>
+  <tile id="4">
+   <image width="64" height="64" source="Tiles/wall2.png"/>
+  </tile>
+ </tileset>
+ <layer name="bottom" width="50" height="100">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+3BMQEAAADCoPVPbQ0PoAAAAAAAAAAAAAAAAAAAAAAAAAB4MAJTL5cgTgAA
+  </data>
+ </layer>
+ <layer name="walls" width="50" height="100">
+  <properties>
+   <property name="blocked" value="true"/>
+  </properties>
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+3BMQEAAADCoPVPbQ0PoAAAAAAAAAAAAAAAAAAAAAAAAAB4MAJTL5cgTgAA
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="50" height="50" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="SideScrollerBits" tilewidth="256" tileheight="256" tilecount="29">
+  <tile id="0">
+   <image width="32" height="32" source="blobLeft.png"/>
+  </tile>
+  <tile id="1">
+   <image width="32" height="32" source="blobRight.png"/>
+  </tile>
+  <tile id="2">
+   <image width="32" height="32" source="blueOrb.png"/>
+  </tile>
+  <tile id="3">
+   <image width="32" height="32" source="caveBlock.png"/>
+  </tile>
+  <tile id="4">
+   <image width="32" height="32" source="coin.png"/>
+  </tile>
+  <tile id="5">
+   <image width="32" height="32" source="darkDirtBlock.png"/>
+  </tile>
+  <tile id="6">
+   <image width="32" height="32" source="darkGrassDirtBlock.png"/>
+  </tile>
+  <tile id="7">
+   <image width="32" height="32" source="darkSkyBlock.png"/>
+  </tile>
+  <tile id="8">
+   <image width="32" height="32" source="darkStoneBlock.png"/>
+  </tile>
+  <tile id="9">
+   <image width="32" height="32" source="dirtBlock.png"/>
+  </tile>
+  <tile id="10">
+   <image width="32" height="32" source="forestBlock.png"/>
+  </tile>
+  <tile id="11">
+   <properties>
+    <property name="blocked" value="true"/>
+   </properties>
+   <image width="32" height="32" source="grassDirtBlock.png"/>
+  </tile>
+  <tile id="12">
+   <image width="32" height="32" source="heart.png"/>
+  </tile>
+  <tile id="13">
+   <image width="32" height="32" source="iceBlock.png"/>
+  </tile>
+  <tile id="14">
+   <image width="32" height="32" source="iceBlockTop.png"/>
+  </tile>
+  <tile id="15">
+   <image width="32" height="32" source="iceDirtBlock.png"/>
+  </tile>
+  <tile id="16">
+   <image width="32" height="32" source="iceStonePathBlock.png"/>
+  </tile>
+  <tile id="17">
+   <image width="32" height="32" source="leavesBlock.png"/>
+  </tile>
+  <tile id="18">
+   <image width="32" height="32" source="purpleBlock.png"/>
+  </tile>
+  <tile id="19">
+   <image width="32" height="32" source="rock.png"/>
+  </tile>
+  <tile id="20">
+   <image width="32" height="32" source="roots.png"/>
+  </tile>
+  <tile id="21">
+   <image width="32" height="32" source="sandBlock.png"/>
+  </tile>
+  <tile id="22">
+   <image width="32" height="32" source="skyBlock.png"/>
+  </tile>
+  <tile id="23">
+   <image width="32" height="32" source="spikes.png"/>
+  </tile>
+  <tile id="24">
+   <image width="256" height="256" source="spriteSheet.png"/>
+  </tile>
+  <tile id="25">
+   <image width="32" height="32" source="stoneBlock.png"/>
+  </tile>
+  <tile id="26">
+   <image width="32" height="32" source="stonePathBlock.png"/>
+  </tile>
+  <tile id="27">
+   <image width="32" height="32" source="waterBlock.png"/>
+  </tile>
+  <tile id="28">
+   <image width="32" height="32" source="waterTopBlock.png"/>
+  </tile>
+ </tileset>
+ <tileset firstgid="30" name="BoyImage" tilewidth="0" tileheight="0" tilecount="0"/>
+ <layer name="Backdrop" width="50" height="50">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+3DMQ0AAAwDoF7zL3k+WkhIgHanqqrqZAAAAACANQ8vTr4IECcAAA==
+  </data>
+ </layer>
+ <layer name="WateryBits" width="50" height="50">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+3WQQrAIAxEUdelR2jvf82uClImGFRMg/9BlmMdwWIpwLjTmCze/R7G9PTpPYuRnLV/1ed2zje7OlePcjknOtdCj7ge6t/lXVflPGvM+l496s54143OtSZjDyXj/aBHfI4e9KDHXj1mv0tW5niX/LcHAAAAAAAAAOzmAfIKwKgQJwAA
+  </data>
+ </layer>
+ <layer name="WalkinGround" width="50" height="50">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+3XzQqAIBBGUSHaRL7/67YKRDSdGfOn7gGhRZ9N0og5h9H24HobVoXNmRmruOs9MkPzPtq1sORy9afep1ac7Z3TzLGykb2zSt/u5VtELHtXKlczR6tcOEo98zT/TH1u6f3ROe1+pe293rkvYu0xO8k345W5ljVYn9+ibs05wZdveU387Nbnkp45ybkkN5cT5kKcS/79HwUAAAAAAAAAoQto6HZHECcAAA==
+  </data>
+ </layer>
+</map>
