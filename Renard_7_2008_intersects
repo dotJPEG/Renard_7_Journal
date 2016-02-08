@@ -1,0 +1,4 @@
+How would one check to see whether weapons damage enemies or objects in Slick?
+if the weapon's hitbox collides with the hitbox of the enemy or object
+than the weapon deals damage to the object, though you wouldnt want to check
+with every new frame since that would instantly kill enemies and objects
