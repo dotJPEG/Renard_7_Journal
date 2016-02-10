@@ -1,0 +1,8 @@
+i was absent when this was posted
+
+How can / will you make the orb move in the direction you are facing?
+based on the most recent movement command the axis of the orb will be increase 
+or decrease in a certain way taht causes the orb to move where you were facing
+Explain and provide specific code.
+im also going to copy pasta the blocked code to make the orbs not go through 
+the walls
