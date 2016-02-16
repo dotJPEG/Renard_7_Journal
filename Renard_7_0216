@@ -1,0 +1,6 @@
+How was an array used in your slick game?
+i used an array to make multiple instances of the same enemy, for instance
+i would have 3 versions of the enemy "badguy"
+
+what might be another use for an array in a different program?
+you could use an array list to make a dynamic inventory for a program
