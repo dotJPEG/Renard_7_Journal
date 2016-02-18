@@ -1,0 +1,51 @@
+Explain this code:
+public Animation Playeranime, up, down, left, right, sprite, wait;
+    public Player() throws SlickException {
+        SpriteSheet runningSS = new SpriteSheet(
+                "res/ogrespritesheet.png", 64, 64, 0);
+        up = new Animation();
+        up.setAutoUpdate(true);
+        up.addFrame(runningSS.getSprite(0, 8), 330);
+        up.addFrame(runningSS.getSprite(1, 8), 330);
+        up.addFrame(runningSS.getSprite(2, 8), 330);
+        up.addFrame(runningSS.getSprite(3, 8), 330);
+        up.addFrame(runningSS.getSprite(4, 8), 330);
+        up.addFrame(runningSS.getSprite(5, 8), 330);
+        up.addFrame(runningSS.getSprite(6, 8), 330);
+        up.addFrame(runningSS.getSprite(7, 8), 330);
+        up.addFrame(runningSS.getSprite(8, 8), 330);
+
+animation loop for walking up
+
+Why would it be unrealistic / unproductive  to memorize Slick syntax - what are the skills we were trying to practice?
+slick isnt used much to be honest, what were are doing here in class is the 
+first, and probably last time we will ever use it
+
+What is an array?
+an array is a (i want to say list but that is confilicting since an array list 
+is a thing so pretend there is a really good word right here) that is full of
+multiple different entries of the same data type
+
+How do you make an array? Give an example.
+String[] arrayboiz = new String();
+
+What is an ArrayList?
+an array list is a dynamic array that can expand and shrink as you add and 
+remove data from it
+
+How do you make an arraylist?
+public ArrayList<Class> name = new ArrayList();
+
+In Netbeans, make an arraylist. Use autocompletion with the created arraylist (the '.' and pop-up):
+ArrayList asdf;
+asdf = new ArrayList();
+
+What are three useful arraylist methods that you identified?
+Gonna be completely honest, I don't know. This'll be something interesting
+to learn/have explained for 5 seconds and then remember what it is
+
+What is the difference between an array and an arraylist?
+an array is a set length, an arraylist is dynamic
+
+How could we make a health counter for an avatar?
+int health = 100*100*100*100*100*100*100;
