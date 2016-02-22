@@ -1,0 +1,4 @@
+Please create a journal with the title lastname_period_date-intersects
+
+How would one check to see whether weapons damage enemies or objects in Slick?
+if the hitbox of the weapon object intersects the hitbox of the enemy then the weapon does damage to the enemy
