@@ -1,0 +1,32 @@
+What are arrays used for?
+arrays are used to store multiple entries of the same type of data
+
+What is the code for an int array?
+int[] asdf = new int[];
+
+What is the code for an String array?
+String[] asdf = new String[];
+
+What is the code for an boolean array?
+boolean[] asdf = new boolean[];
+
+What is the code for an double array?
+double[] asdf = new double[];
+
+How would you change the first value of the int array to 42?
+intarray[1] = 42;
+
+Of the String array to "Bob"?
+stringarray[1] = "Bob"
+
+What does this do: private String[] dessert = new String[3];
+creates a stringg array named dessert with 3 slots for data
+
+What does this do: private String[] postres = {"rice pudding", "pan dulce", "bunuelos"}
+makes a string array with the values rice updding, pan dulce, and bunuelos held within it
+
+How are they different?
+one creates an aray with 3 null values, one creates an array with 3 spots that have strings in them
+
+How would we replace "bunuelos" with "apple pie"?
+postres[3] = "apple pie";
