@@ -1,0 +1,13 @@
+public class Rat{
+
+}
+
+Rat rat() = new Rat;
+
+the declaration and initialization are places within the class or method that is used 
+to assemble a game or game level
+
+int[] ratX = {"1","2","3","4","5"};
+int[] ratY = {"5","4","3","2","1"};
+add rat(ratX[1], ratY[1]);
+// adds a rat using the coordinates set by position 1 of the game arrays
