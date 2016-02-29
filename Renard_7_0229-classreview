@@ -1,0 +1,27 @@
+1. How do we make a class? What code comes at the beginning?
+public class Exaaaample(){
+
+2. Donut Bismarck = new Donut();
+is this a class constructor?
+kind of, Bismarck should be bismarck, don't start variables that arent classes
+with capital letters
+
+3. How do we make a class with values and a class constructor?
+public class Yourmother(){
+String size = "much too large"
+}
+Yourmother() urmum = new Yourmother();
+
+4. Explain in your own words - what is a getter? what does it do?
+A getter is a method in a class that allows you to retrieve a bit of info about
+the class, like isIsVisible
+
+5. What is a setter? what does it do? Give an example.
+a setter is a method within a class that allows you to set variables for the
+class from outside the class, such as bismarck.IsVisible(false);
+
+
+6. What is in An array of Breakfast? How would you create one?
+an group of data types/objects that can be accessed from a list
+Breakfast pastries = new Breakfast();
+pastries[] omnomnom = new pastries[a small loan of a million pasties];
