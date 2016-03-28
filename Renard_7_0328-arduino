@@ -1,0 +1,35 @@
+
+Arduino uses a variant of the C programming language.
+
+What differences and similarites have you noticed? Provide at least 3 and explain in complete sentences.
+Simple syntax differences, things are worded differently, but only a little bit. For the most part they are one in the same as far as basic syntax goes,
+for example, the for  loop is the same as in java, as is calling upon methods. you can do a few special things with making variables, such as 
+"const int" meaning that that int will always stay the same.
+
+What code adaptations have you made? [Or will you make if none to date. Note: 'none' is not a valid answer]
+i messed around with  the pitch on the noise makers one's and made one that will only play a noise when you have a botton pressed
+
+What is required for a circuit?
+the bit of code that it runs when starting for the first time (like making an integer)
+and the main body of code that the circuit will keep running until it loses power or is reprogrammed
+
+How are programs compiled with Arduino?
+i have no idea, i just know it happens, and i also cant find anything on it on google, so in other words, ive ran out of options
+
+Describe the projects you have completed this/last week and what you have learned from them. Descriptions should be _at least_ one full paragraph in length.
+#1 Blinking LED: In this one I learned about the basic concepts of C, and the specifics of running the arduino like the start and loop code
+#2 Potentiometer: Saw another little device, as is the case in most of the examples. This is a knob that outputs an int based on where the knob is turned to
+#3 RGB LEB: With this you have an LED that takes 3 ints, a Red int, a Green int, and a Blue int. We threw in a knob and turning it effected the values of the Ints
+#15 LCD: In this one we learned about something that is actually cool, and LCD screen. You give it some information to print out and it'll do just that. Like you can give it a word and 
+it will display the what you told it too. Ive seen and helped with some interesting things related to this, like one of my friends was having a party and he wanted a message board you 
+could text and it would display the message, so people could say hello or maybe a song request or something like that. We set up a simple aplication that would take messaged recived 
+and than print a crawling message on the lcd screen we had displaying the messages.
+#16 Simon says:In this lab we learned about user input and "memory". We wired a circuit to spit out 1 of 4 lights and a corresponding sound, where a the user would have to then have to
+press a button on the device, and if the user pressed the right button the device would play the same note(s) and light(s) as before and then add another one, where the user would
+have to enter the sequence displayed.
+
+You will be completing your own project - a project of your own design that accepts user input and provides light and sound in some way.
+Describe your project and the code adaptations you will have to make. [Note - 'none' is not a valid answer. For example, there is a 'Simon' game provided - using that code would earn 
+a '0' because it is 0% your code.]
+im going to make a small piano out of the arduino where while you have a button  pressed it will play the respective note of that button until you 
+release said button, i will probably just steal the code from the simple noise maker and adapt it to work around a button
