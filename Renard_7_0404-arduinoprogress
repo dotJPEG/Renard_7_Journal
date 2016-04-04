@@ -1,0 +1,16 @@
+Describe the progress you have made on your project.
+
+What have you done?
+made a botton that lights up a light and makes a sound when pressed
+
+What do you need to do?
+essentially copy the code to have a range of notes that will play when we press their respective button
+
+What will you be able to turn in on Friday?
+either one or more buttons that play a respective note when pressed
+
+What code changes are you writing?
+we took code from multiple different examples and spliced them together so that they would do what we wanted, as opposed to their original function
+
+What functions have you created?
+we've changing the boolean of an led based on the state on a button
