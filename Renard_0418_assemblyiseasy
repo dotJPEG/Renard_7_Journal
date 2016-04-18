@@ -1,0 +1,24 @@
+For what computational reason did you type elf64?
+it made the file executable by all users
+
+Why did you use ld?
+loads the file to be executed
+
+Why did you not have to use chmod to make sample executable?
+elf64 makes it executable
+
+Now - change the code to print your name. You should change the program so that it actually prints your name.
+Post the code in your journal
+message:
+        db      "you have to do more than change the text.", 10 ;note the newline at the end
+
+
+What problem did you have to solve to get it to work?
+you had to change the printed text in the quotations, and then change the bit amount alloted
+
+Given your actual experience with Assembly now --- Is assembly 'quick and easy'? Why or why not?
+nope, like i said in a previous journal, because you can be so specific and indepth with it you actually have to do everything. that being said seeing everything is pretty cool
+
+What does 'low level' actually mean with regards to programming languages?
+its a lot more simple than other programs, when you use java or c or what have you, you are using a massive amount of code, your programs will be massive
+compared to what you can get out of assembly for example.
