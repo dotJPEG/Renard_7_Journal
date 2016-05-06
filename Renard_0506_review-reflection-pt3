@@ -1,0 +1,56 @@
+
+    Given mymap[67][43] Which is the x coordinate? Which is the y coordinate? Why? How does this happen?
+the x is 43, and the y is 67, not sure about the reasoning behind why it is that way, but that is how java handles it
+    Consider:
+
+            for (int i = 0; i <= map[0].length - 1; i++) {
+                for (int j = 0; j <= map[1].length - 1; j++) {
+                    if (j < map[1].length - 1) {
+                      if (i=0){ System.out.print("8888"); #a
+                        } else if (map[i][j] != 'x') {
+                            System.out.print("."); #e
+                        } else {
+                            System.out.print(map[i][j]); #b
+                        }
+                    } else {
+                        if (map[i][j] != 'x') {
+                            System.out.println("."); #c
+                        } else {
+                            System.out.println(map[i][j]); #d
+                        }
+                    }
+                }
+            }
+        }
+            
+            
+          
+
+    Write the code from line #a and explain what it does.
+if(i=0){sout("8888");
+prints out a bunch of 8's on the first row of the array
+
+    Write the code from line #b and explain what it does.
+sout(map[i][j]);
+prints out the map so it can be seen by humans
+
+    Write the code from line #c and explain what it does. Explain how its different than #e
+sout(".");
+prints an empty point on the map as long as the playercharacter(?) isnt on that point, this will only print if j is >= to map[1].length-1 though
+
+    Write the code from line #d and explain what it does.
+sout([i][j]);
+if none of the previous parameters are met than the program will just print map[i][j]
+
+    Explain how to use a boolean with a while loop. Provide a very specific use case and code example.
+set a boolean to true and have the parameters of the while loop be while the boolean is true, to exit the while loop just set the boolean to false and the loop will break
+
+    Explain the use of static.
+static is used to share whatever it is the prefix to with the entire class that it is in
+
+    Provide an example of how you could use an object with your game. Give a code example.
+i could use enemies that track to you as an object so that i could have more than one without having to copy paste the same code.
+for(Enemy e: enemy){
+e.setdirection;
+e.move;
+}
