@@ -1,0 +1,8 @@
+explain in your own words -- what happens with nested for loops?
+e.g.,
+
+	for(int i=0;i <= board[0].length - 1; i++){
+		for(int j = 0; j <= board[1];.length - 1; j++){....}}
+
+for every iteration of i, the entire j loop is run, its great for filling in things like
+2d arrays
