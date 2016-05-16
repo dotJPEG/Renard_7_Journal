@@ -1,0 +1,24 @@
+    Explain casting. Up-casting, Down-casting.
+Casting is a method of organization in java, similar to the way that different animal kingdoms are organized in biolagy, 
+up casting is to get more broad, and down casting is to get more specific, like cat or dog as opposed to something like animal or mammal
+
+    Give a specific code example for up-casting
+int cat;
+double dog;
+dog = cat;
+
+    Give a specific code example for down-casting
+int cat;
+double dog;
+cat = (int)dog;
+
+    Give a specific code example for converting a char to a String
+char bleh = 'a';
+String asdf = "" + a;
+//you can also use this to change an int or double to a string which is pretty cool i guess
+
+    What is the range of values for byte? Why?
+-128 to 127
+this i because of the way that each of the two caps would be represented
+in binary, 127 in binary is 01111111, 128 cant be represented, therefor
+10000000 is -128 and cant be 128
