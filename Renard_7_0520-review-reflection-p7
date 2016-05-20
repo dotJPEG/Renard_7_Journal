@@ -1,0 +1,35 @@
+
+    Given the class Ogre:
+
+
+    1. Provide an example class with class constructor
+public class Dank{
+int asdf;
+}
+public Dank(int asdf){
+this.asdf = asdf;
+}
+
+
+    2. Give an example of instantiation of an Ogre object
+//just pretend i already have the ogre class made here
+
+static Ogre ogre;
+public class Game{
+Ogre ogre = new Ogre(10,10,100);
+}
+
+    3. Provide a setter for positioning
+ogre.setX(10);
+
+    4. Provide an example of using an ogre's move method
+ogre.setDirection;
+ogre.move;
+
+    5. Provide an example array of 3 ogres.
+ArrayList<Ogre> ogre = new ArrayList();
+
+for(int ogres = 0; ogres <3; ogres++){
+Ogre e = new Ogre(randy.nextInt(10), randy.nextInt(10), true);
+ogre.add(e);
+}
