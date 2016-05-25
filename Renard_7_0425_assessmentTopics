@@ -1,0 +1,17 @@
+There will be an end of year assessment.
+What are 10 concepts ou think will be covered. Why?
+
+1. OOP, we have been primarily foccusing on the use of objects recently
+2. general use of classes, classes are something that you just need to know to be at all effeciant with
+Java, and as it happens, a lot of the students (in my class atleast) dont exactly have a grasp on the use of java classes
+3. Class constructers, can kinda be put with general class use, but it really deserves its own spot,
+if you dont know about class constructers than you cant really use classes to their full potential
+4. Methods, methods are a fairly large part of java regardless of how simple they are, so
+yes it will be an easy part of the test, but it will be an important part no-less
+5. creation/using of variables, variables are the backbone of programming, there really isnt a lot you can do withuot them.
+We will probably be tested on the basics of it like creation and setting and that sort of thing, but i imagine we will also have a few questions
+on what each is, how to cast them, that sort of thing.
+6. The different libraries in java that makes coding easy, like how typing System.out,println(""); prints text on a new line in the terminal
+instead of having to type a massive amount of specifics like you would have to do in something like assembly where there arent really any libraries in place for you
+7. for loops, while loops, etc. One good question would be what is the difference between a for loop and a while loop, and why you
+would use one over the other.
